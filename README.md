@@ -1,22 +1,29 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Equicaloric is a calorie burning conversion app designed to make planning and keeping track of your personal health & fitness easy.
+
+The application itself is simple to use. In the top half of the app, simply input the number of reps you completed or the amount of time (in minutes) you exercised for in the first field, and change the second field, a dropdown, to the specific form of exercise.
+
+By default, the bottom half should now display the number of calories that were burned. Alternatively, you can use the dropdown on the bottom to select another form of exercise to see its equivalent amount to your workout (for example, you can see that 100 situps burns around the same amount of calories as 175 pushups).
+
+In addition, you can select “Calorie(s)” in the top half to see how much of some exercise you would need to do in order to burn that many.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Ethan Chiou ([ethanchiou@berkeley.edu](mailto:ethanchiou@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Equicaloric](https://youtu.be/5hw9d4Nd7_s)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/default.png" height="400" alt="Screenshot1"/>
+<img src="screenshots/walking.png" height="400" alt="Screenshot2"/>
+<img src="screenshots/selecting.png" height="400" alt="Screenshot3"/>
+<img src="screenshots/equiv.png" height="400" alt="Screenshot4"/>
+<img src="screenshots/calories.png" height="400" alt="Screenshot5"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+Thanks to Google for giving me nice colours to use from the Material Design docs.
